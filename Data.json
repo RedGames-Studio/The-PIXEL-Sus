@@ -4,5 +4,6 @@
     "GameObjctsNews" :  true,
     "NewsText" : "Hi, Welcome to the first RedGames if the game has a problem really sorry our studio will do my best to make the games and my name is Mamad Pars",
     "GameObjctsTimeUpdate" :  false,
-    "TimeUpdate" : "New Update Form 1 Days 1H"
+    "TimeUpdate" : "New Update Form 1 Days 1H",
+    "TextVersoin": "Beta 0.0.2"
 }
